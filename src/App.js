@@ -10,31 +10,31 @@ function App() {
   const [selectedCompanies, setSelectedCompanies] = useState([]);
   const [listOfCountries, setListOfCountires] = useState([
     {
-      conmapnyName: "Company A",
+      companyName: "Company A",
       selected: false,
     },
     {
-      conmapnyName: "Company B",
+      companyName: "Company B",
       selected: false,
     },
     {
-      conmapnyName: "Company C",
+      companyName: "Company C",
       selected: false,
     },
     {
-      conmapnyName: "Company D",
+      companyName: "Company D",
       selected: false,
     },
     {
-      conmapnyName: "Company E",
+      companyName: "Company E",
       selected: false,
     },
     {
-      conmapnyName: "Company F",
+      companyName: "Company F",
       selected: false,
     },
     {
-      conmapnyName: "Company G",
+      companyName: "Company H",
       selected: false,
     },
   ]);
